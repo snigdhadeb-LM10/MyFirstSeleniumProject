@@ -31,5 +31,6 @@ public class FramePractice {
 		System.out.println(text);
 		driver.switchTo().defaultContent();
 		driver.close();driver.quit();
+		System.out.println("GIT Changes");
 	}
 }
